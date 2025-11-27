@@ -5,6 +5,6 @@ Permite crear, visualizar y organizar planes junto con sus actividades de manera
 
 ## 👥 Autores
 -  [Rodrigo García Arroyo](https://github.com/rodrigogarciaar)
--  [álvaro Cabello de los Cobos](https://github.com/acabellodeloscobos)
+-  [Álvaro Cabello de los Cobos](https://github.com/acabellodeloscobos)
 
 
